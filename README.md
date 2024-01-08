@@ -6,7 +6,7 @@ Oluşturduğu odaya eşyalar eklemekte ve odayı kaydetmektedir. <br>
 Proje kodları gizlenmiştir. <br>
 Proje ile ilgili detaylı bilgiler aşağıdaki resimlerde gösterilmiştir. <br>
 
-Projenin Ana Ekranı
+<b> Projenin Ana Ekranı </b> <hr>
 ![Ana Ekran](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/d5d7bf7c-0006-47d4-af5d-41c6ac24961f)
 Oda Seçimi
 ![SelectRoom](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/4aa3db6e-975e-4e8b-bd4a-b48c3d9e51d0)
