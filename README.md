@@ -9,13 +9,13 @@ Proje ile ilgili detaylı bilgiler aşağıdaki resimlerde gösterilmiştir. <br
 ![Ana Ekran](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/d5d7bf7c-0006-47d4-af5d-41c6ac24961f)
 <br><b> Oda Seçimi</b> 
 ![SelectRoom](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/4aa3db6e-975e-4e8b-bd4a-b48c3d9e51d0)
-<b> Oda Ayarları </b> 
+<br><b> Oda Ayarları </b> 
 ![RoomSettings](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/160cc320-48e4-413b-a74a-56c09babde17)
-<b> Proje kod kısımları </b>
+<br><b> Proje kod kısımları </b>
 ![CodeScreen1](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/554ad089-166a-4d00-857a-a82724242054)
 ![CodeScreen2](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/84e7fd22-0004-496a-8e73-a89583347540)
 ![CodeScreen3](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/6a13be3d-667a-4cd9-b8fa-379af32ed541)
-<b> Proje Ekran Görüntüleri </b>
+<br><b> Proje Ekran Görüntüleri </b>
 ![Kitchen](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/715883a3-cfc2-4c41-80c8-ea96eca03e7f)
 ![RoomScene1](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/c8a209e3-b8fc-45c5-95bd-b653279d7f90)
 ![RoomScene2](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/2c5dc836-e68c-4778-80b7-95aed82042d2)
