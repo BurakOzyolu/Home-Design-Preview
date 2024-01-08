@@ -5,7 +5,7 @@ Kullanıcı oda boyutlularını ve oda türünü seçmektedir.  <br>
 Oluşturduğu odaya eşyalar eklemekte ve odayı kaydetmektedir. <br>
 Proje kodları gizlenmiştir. <br>
 Proje ile ilgili detaylı bilgiler aşağıdaki resimlerde gösterilmiştir. <br>
-<b> Projenin Ana Ekranı </b>
+<br><b> Projenin Ana Ekranı </b>
 ![Ana Ekran](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/d5d7bf7c-0006-47d4-af5d-41c6ac24961f)
 <br><b> Oda Seçimi</b> 
 ![SelectRoom](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/4aa3db6e-975e-4e8b-bd4a-b48c3d9e51d0)
