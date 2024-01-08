@@ -1,10 +1,10 @@
 # Home-Design-Preview
 
-Projede kullanıcı tarafından oda tasarımı yapılmaktadır.
-Kullanıcı oda boyutlularını ve oda türünü seçmektedir. 
-Oluşturduğu odaya eşyalar eklemekte ve odayı kaydetmektedir.
-Proje kodları gizlenmiştir.
-Proje ile ilgili detaylı bilgiler aşağıdaki resimlerde gösterilmiştir.
+Projede kullanıcı tarafından oda tasarımı yapılmaktadır. <br>
+Kullanıcı oda boyutlularını ve oda türünü seçmektedir.  <br>
+Oluşturduğu odaya eşyalar eklemekte ve odayı kaydetmektedir. <br>
+Proje kodları gizlenmiştir. <br>
+Proje ile ilgili detaylı bilgiler aşağıdaki resimlerde gösterilmiştir. <br>
 
 Projenin Ana Ekranı
 ![Ana Ekran](https://github.com/BurakOzyolu/Home-Design-Preview/assets/33603280/d5d7bf7c-0006-47d4-af5d-41c6ac24961f)
