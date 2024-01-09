@@ -1,7 +1,7 @@
 # Home-Design-Preview
 
 Projede kullanıcı tarafından oda tasarımı yapılmaktadır. <br>
-Kullanıcı oda boyutlularını ve oda türünü seçmektedir.  <br>
+Kullanıcı oda boyutlarını ve oda türünü seçmektedir.  <br>
 Oluşturduğu odaya eşyalar eklemekte ve odayı kaydetmektedir. <br>
 Proje kodları gizlenmiştir. <br>
 Proje ile ilgili detaylı bilgiler aşağıdaki resimlerde gösterilmiştir. <br>
